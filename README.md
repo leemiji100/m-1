@@ -35,25 +35,31 @@
 ## 6. 분석 결과 및 시각화
 
 ### 그림 1. 전체 기간 월별 평균 접속자 수 + 3개월 이동평균
-![전체 추이](images/01_전체추이_이동평균.png)
+
+<img width="1800" height="900" alt="01_전체추이_이동평균" src="https://github.com/user-attachments/assets/2d004591-ffb5-4ee2-b66b-d06fbfeccc14" />
+
 
 대형 업데이트(1.3, 1.4, 1.5, 1.6) 시점마다 접속자 수가 급등하는 패턴이 뚜렷하게 보인다. 특히 2024년 3월 이후로는 이전 어느 시기보다 훨씬 높은 수준에서 유지되고 있다.
 
 ### 그림 2. 연도별 평균 접속자 수 vs 연중 최고 접속자 수
-![연도별 비교](images/02_연도별_비교.png)
+
+<img width="1500" height="900" alt="02_연도별_비교" src="https://github.com/user-attachments/assets/1ec61c9c-4f7a-4731-b8e9-5f8ea18d1bae" />
 
 2024년을 기점으로 연평균 접속자 수가 이전(약 2.8만~3.3만 명)의 2배 이상인 6만 명대로 뛰었고, 2025~2026년에도 그 수준이 유지되고 있다.
 
 ### 그림 3. 전월 대비 증감률
-![증감률](images/03_전월대비_증감률.png)
+
+<img width="1800" height="900" alt="03_전월대비_증감률" src="https://github.com/user-attachments/assets/2cb54496-feac-46b6-ad67-589041635323" />
 
 매년 반복적으로 상승(초록)과 하락(빨강)이 번갈아 나타나는 규칙적인 패턴이 보인다.
 
 ### 그림 4. 계절 패턴 (업데이트 없는 해 기준)
-![계절성](images/04_계절성.png)
+
+<img width="1500" height="900" alt="04_계절성" src="https://github.com/user-attachments/assets/bcd83dbf-ab7c-4586-ba4e-3fbbcfce12e8" />
 
 ### 그림 5. 대형 업데이트 이후 감소 패턴 비교 (1.5 vs 1.6)
-![업데이트 이후 비교](images/05_업데이트이후_추이비교.png)
+
+<img width="1650" height="900" alt="05_업데이트이후_추이비교" src="https://github.com/user-attachments/assets/012af17d-9165-4e63-8b93-81d19e658489" />
 
 ## 7. 인사이트
 
